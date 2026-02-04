@@ -27,12 +27,13 @@ Keep in touch on [LinkedIn] ⚡️ [X (Twitter)]
 <br> 
 
 <h2 align="left">Projects 🚀</h2>
-- 🟢 [RaceUp](https://raceup.org/) – Next-gen sports ticketing platform (active)  
-- 🟢 [Zamzam XP](http://zamzamxp.com/) – Travel that's fair for everyone (active)  
-- ⚪ [ShipWait](https://www.shipwait.com/) – Create customizable landing pages and validate startup ideas (inactive)  
-- ⚪ [Magic Social](https://www.magic-social.com/) – AI-powered Chrome extension to craft better tweets and grow your presence (inactive)  
-- 🔴 [Cazamate](https://www.cazamate.com/) – Shared accommodation for everyone (abandoned)
-
+<ul>
+  <li>🟢 <a href="https://raceup.org/">RaceUp</a> – Next-gen sports ticketing platform (active)</li>
+  <li>🟢 <a href="http://zamzamxp.com/">Zamzam XP</a> – Travel that's fair for everyone (active)</li>
+  <li>⚪ <a href="https://www.shipwait.com/">ShipWait</a> – Create customizable landing pages and validate startup ideas (inactive)</li>
+  <li>⚪ <a href="https://www.magic-social.com/">Magic Social</a> – AI-powered Chrome extension to craft better tweets and grow your presence (inactive)</li>
+  <li>🔴 <a href="https://www.cazamate.com/">Cazamate</a> – Shared accommodation for everyone (abandoned)</li>
+</ul>
 <br> 
 
 > “Size matters not. Look at me. Judge me by my size, do you?” — *Yoda*

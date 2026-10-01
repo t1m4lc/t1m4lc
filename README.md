@@ -29,6 +29,7 @@ Keep in touch on [LinkedIn] ⚡️ [X (Twitter)]
 
 <h2 align="left">Projects 🚀</h2>
 <ul>
+  <li>🟢 <a href="https://runometry.com/">Runometry</a> – Running shoe comparison & price discovery platform (active)</li>
   <li>🟢 <a href="https://raceup.org/">RaceUp</a> – Next-gen sports ticketing platform (active)</li>
   <li>🟢 <a href="http://zamzamxp.com/">Zamzam XP</a> – Travel that's fair for everyone (active)</li>
   <li>⚪ <a href="https://www.shipwait.com/">ShipWait</a> – Create customizable landing pages and validate startup ideas (inactive)</li>

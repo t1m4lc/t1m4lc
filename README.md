@@ -29,14 +29,16 @@ Keep in touch on [LinkedIn] ⚡️ [X (Twitter)]
 
 <h2 align="left">Projects 🚀</h2>
 <ul>
-  <li>🟢 <a href="https://runometry.com/">Runometry</a> – Running shoe comparison & price discovery platform (active)</li>
-  <li>🟢 <a href="https://raceup.org/">RaceUp</a> – Next-gen sports ticketing platform (active)</li>
-  <li>🟢 <a href="http://zamzamxp.com/">Zamzam XP</a> – Travel that's fair for everyone (active)</li>
-  <li>⚪ <a href="https://www.shipwait.com/">ShipWait</a> – Create customizable landing pages and validate startup ideas (inactive)</li>
-  <li>⚪ <a href="https://www.magic-social.com/">Magic Social</a> – AI-powered Chrome extension to craft better tweets and grow your presence (inactive)</li>
-  <li>🔴 <a href="https://www.cazamate.com/">Cazamate</a> – Shared accommodation for everyone (abandoned)</li>
+  <li>🟢 <a href="https://runometry.com/">Runometry</a> – Running shoe comparison & price discovery platform</li>
+  <li>⚪ <a href="https://mozart.build/">Mozart</a> – Coordination cockpit for parallel coding agents</li>
+  <li>🟢 <a href="https://raceup.org/">RaceUp</a> – Next-gen sports ticketing platform</li>
+  <li>🟢 <a href="http://zamzamxp.com/">Zamzam XP</a> – Travel that's fair for everyone</li>
+  <li>⚪ <a href="https://www.shipwait.com/">ShipWait</a> – Create customizable landing pages and validate startup ideas</li>
+  <li>⚪ <a href="https://www.magic-social.com/">Magic Social</a> – AI-powered Chrome extension to craft better tweets and grow your presence</li>
+  <li>🔴 <a href="https://www.cazamate.com/">Cazamate</a> – Shared accommodation for everyone</li>
 </ul>
-<br> 
+<sub>🟢 active · ⚪ inactive · 🔴 abandoned</sub>
+<br>
 
 > “Size matters not. Look at me. Judge me by my size, do you?” — *Yoda*
 
